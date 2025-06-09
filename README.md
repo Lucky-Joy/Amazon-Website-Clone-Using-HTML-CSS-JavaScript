@@ -1,1 +1,0 @@
-# Amazon-Website-Clone-Using-HTML-CSS-JavaScript
